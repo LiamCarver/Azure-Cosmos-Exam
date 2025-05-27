@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "db02823d06b705cc",
+        "id": "793bb2514f0a9f03",
         "type": "tabs",
         "children": [
           {
-            "id": "37d7d642d4506691",
+            "id": "b454886eed9f5397",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Notes.canvas",
+                "viewState": {
+                  "x": -145.94981768570113,
+                  "y": 733.2715344304561,
+                  "zoom": -0.3333333333333334
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Notes"
             }
           }
         ]
@@ -164,8 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37d7d642d4506691",
+  "active": "b454886eed9f5397",
   "lastOpenFiles": [
+    "Images/Global Distribution.png",
+    "Images",
+    "Notes.canvas",
     "New Text Document.txt",
     "Welcome.md"
   ]
